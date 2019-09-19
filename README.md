@@ -1,10 +1,10 @@
-[Instagram account creator](##instagram-account-creator)
+[Instagram account creator](#instagram-account-creator)
 
-[Login](##login)
+[Login](#login)
 
-[Like](##like)
+[Like](#like)
 
-[Comment](##comment)
+[Comment](#comment)
 
 
 
